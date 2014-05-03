@@ -18,6 +18,8 @@ public class classPlanet {
     public int Gas;
     public boolean habitable;
     public double TerraForm;
+    public double Coordinates;
+    
     
     classPlanet(int PlanetID) {
         // OPEN DATABASE AND POPULATE FIELDS

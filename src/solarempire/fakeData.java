@@ -11,5 +11,10 @@ package solarempire;
  * @author Dan
  */
 public class fakeData {
-   
+    
+    public int UserID = 1;
+    
+   fakeData () {
+       System.out.println("FAKE!!!!");
+   }
 }
